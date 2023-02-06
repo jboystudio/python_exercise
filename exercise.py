@@ -1,5 +1,5 @@
-#A programme to check whether a number is divisible by 5,7,11
-"""
+#Write a programme to check whether a number is divisible by 5,7,11
+
 num = int(input("enter a number:"))
 if (num%5 == 0):
  print("the number is divisible by 5")
@@ -13,7 +13,7 @@ else :
 print("not divisible")
 
 
-#A program to assign a discount of 5% if amount of purchase exceeds sh 1000
+#write aprogram to assign a discount of 5% if amount of purchase exceeds sh 1000
 
 amount_purchased = float(input("enter amount purchased:"))
 if (amount_purchased >1000):
@@ -50,7 +50,7 @@ if(annual_income >= 21000) and (age >= 21):
  print("congratulations you qualify for a loan")
 else:
     print("unfortunately, we are unable to offer you a loan this time.")
-"""
+
     #write a program to check if you are eligible to vote:
     #conditions : must be an Esat African citizen (kenya,Uganda,Tanzania) and above 18 years.
 
